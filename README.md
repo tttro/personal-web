@@ -1,4 +1,4 @@
-# Apuäly Chat
+# Apuälynen™
 
 A simple CV chatbot built with Next.js. Ask it anything about Tero's background, skills, or experience — it answers based on the CV.
 

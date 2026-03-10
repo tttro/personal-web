@@ -16,7 +16,7 @@ const initialMessages: CvChatMessage[] = [
   {
     role: "assistant",
     content:
-      "Hi, I'm Apuälynen, chatbot. Ask me anything about my experience, skills, or background and I'll answer based on Tero's CV.",
+      "Hi, I'm Apuälynen, chatbot. Ask me anything about Tero's experience, skills, or background and I'll answer based on his CV.",
   },
 ];
 
